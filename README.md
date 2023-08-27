@@ -1,4 +1,4 @@
-# Analysis-of-suicide-rate-patterns
+# Analysis-of-suicide-rates-patterns
 
 Suicide rates have exploded over recent decades. There are a number of reasons that can contribute to these suicides as part of this project.
 In this case, we will attempt to understand the parameters that contribute to suicide and try to predict the suicide rate using our machine learning algorithms.
@@ -6,7 +6,7 @@ We will conduct an exploratory analysis of the data to understand the problem's 
 The stages of this project consist of:
 - Importing the Libraries
 - Exploratory Data Analysis
-- Plotting some important data visualisation using Seaborn
+- Plotting some important data visualization using Seaborn
 - Fill in some missing values
 - Convert strings to categories
 - Transform categorical variables into numbers
