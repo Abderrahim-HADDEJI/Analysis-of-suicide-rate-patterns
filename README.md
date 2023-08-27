@@ -1,6 +1,6 @@
 # Analysis-of-suicide-rate-patterns
 
-Suicide rates have exploded over recent decades.There are a number of reasons that can contribute to these suicides as part of this project.
+Suicide rates have exploded over recent decades. There are a number of reasons that can contribute to these suicides as part of this project.
 In this case, we will attempt to understand the parameters that contribute to suicide and try to predict the suicide rate using our machine learning algorithms.
 We will conduct an exploratory analysis of the data to understand the problem's parameters and the outcome of this suicide.
 The stages of this project consist of:
